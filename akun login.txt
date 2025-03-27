@@ -1,0 +1,7 @@
+admin :
+username : admin
+password : 123
+
+siswa :
+nis : 123456789
+password :1234

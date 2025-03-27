@@ -1,0 +1,30 @@
+html, body{
+  height: 100%;
+  background-color: rgb(139, 210, 248);
+}
+
+.container{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(77, 184, 242);
+}
+
+.form{
+  width: 600px;
+  height: 350px;
+  padding: 20px;
+  background-color: rgb(92, 190, 242);
+  color: rgb(5, 52, 93);
+  border: : 2px solid rgb(31, 159, 159);
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.btn {
+    margin-top: 25px;
+    width: 150px;
+    height: 100px;
+    margin-bottom: 50px;
+  }

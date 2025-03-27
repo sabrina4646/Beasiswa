@@ -1,0 +1,23 @@
+html, body{
+  height: 100%;
+  background-color: rgb(7, 83, 124);
+}
+
+.container{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(92, 151, 239, 0.244)
+}
+
+.login-form{
+  width: 380px;
+  height: 550px;
+  padding: 20px;
+  background-color: rgb(31, 159, 159);
+  color: aliceblue;
+  border: : 2px solid rgb(31, 159, 159);
+  border-radius: 10px;
+  margin-bottom: 25px;
+}

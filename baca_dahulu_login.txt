@@ -1,0 +1,27 @@
+Langkah-Langkah :
+
+A.import database caranya :
+1. buka localhost/phpmyadmin
+2. buat database baru dengan nama: psb
+3. Buka database psb yang tadi telah dibuat
+4. klik tab import-->choose file lalu pilih file psb.sql kemudian tekan tombol OK
+5. tunggu sampai import selesai
+
+B. copy-paste folder psb ke dalam drive C atau D tempat anda instalasi xampp
+lalu double click Xampp --> double click Htdocs --> copy kan folder psb di dalam folder htdocs tersebut
+
+
+C. Jalankan di web browser lalu ketik pada url: localhost/psb
+
+untuk akun Login :
+
+ADMIN :
+admin
+1234
+
+SISWA :
+adinda
+123
+
+siswa
+12345
